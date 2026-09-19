@@ -104,7 +104,7 @@ const packageButtons = document.querySelectorAll("[data-package]");
 const serviceSelect = bookingForm?.querySelector("[name='service']");
 const statusMessage = document.querySelector(".form-status");
 const emailLink = document.querySelector("[data-email-link]");
-const whatsappNumber = "919435012018";
+const whatsappNumber = "918812896394";
 const bookingEmail = "hello@aabhamehendi.com";
 
 function getBookingMessage() {
